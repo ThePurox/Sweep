@@ -495,10 +495,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "svgs",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "sweepv2.step",
       "svg": "",
       "vrml": ""
     },
