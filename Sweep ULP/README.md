@@ -2,21 +2,21 @@
 ![](/gallery/sweepv2/front.png)
 ![](/gallery/sweepv2/back.png)
 
-This is the main Choc v1 board we all know and love.
+This is the ultra low profile version of the sweep.
 
 ## Ordering The PCB
 
-To order the PCB the following settings are recommended<sup>1,2</sup>: 
+To order the PCB the following settings are recommended<sup>1,2</sup>:
 
 |Detail|Value|
 |---|---|
-|Gerber file|`sweepv2.X_gerber.zip`|
+|Gerber file|`production/sweepv2.zip`|
 |Base material|FR-4|
 |Layers|2|
 |Dimension|216.9mm x 86.9mm|
 |Different design|2|
 |Delivery format|Panel by customer|
-|PCB thickness|1.6mm|
+|PCB thickness|0.6mm|
 |PCB color|(Personal preference)|
 |Silkscreen|(Personal preference)|
 |Surface finish|(Personal preference)|
