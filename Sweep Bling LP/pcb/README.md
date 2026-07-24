@@ -4,6 +4,8 @@
 
 This is a kailh hotswap version of the Sweep v2.
 
+This is for choc V2 not compatible with choc v1!!!
+
 ## Ordering The PCB
 
 To order the PCB the following settings are recommended<sup>1,2</sup>: 
